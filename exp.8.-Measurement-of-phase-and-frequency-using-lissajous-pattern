@@ -44,5 +44,15 @@ If time/div= 0.1 ms; 1 Major div is 0.1ms and each minor div is 0.02 ms.
 ## Circuit Diagram:
 
 ## Output Graph:
+## Sine wave
+<img width="1571" height="913" alt="image" src="https://github.com/user-attachments/assets/dceab792-4d72-43db-ab67-198eb8867341" />
 
-## Result:
+## Square wave
+<img width="1555" height="792" alt="image" src="https://github.com/user-attachments/assets/5b6add25-22a4-4920-9f59-ee9dda4cfe72" />
+
+## Triangular wave
+<img width="1567" height="890" alt="image" src="https://github.com/user-attachments/assets/e24b6225-1f23-4e78-80d0-29df07cb6270" />
+
+## Result
+Thus, the phase difference and frequency of the given input signals were measured successfully using the Lissajous Pattern on the Cathode Ray Oscilloscope, and the obtained waveform verified the relationship between the two signals.
+
